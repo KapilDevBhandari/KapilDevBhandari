@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kapil Dev Bhandari</h1>
-<h3 align="center">A passionate Passionate AI Student | Building the Future of Intelligence</h3>
+<h3 align="center">A  Passionate AI Student | Building the Future of Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapildevbhandari&label=Profile%20views&color=0e75b6&style=flat" alt="kapildevbhandari" /> </p>
 
